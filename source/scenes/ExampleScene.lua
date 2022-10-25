@@ -8,7 +8,7 @@ local logo
 local menu
 local sequence
 
-local difficultyValues = {"Rare", "Medium", "Well Done"}
+local difficultyValues = {"Easy", "Medium", "Difficult"}
 
 function ExampleScene:init()
 	ExampleScene.super.init(self)
